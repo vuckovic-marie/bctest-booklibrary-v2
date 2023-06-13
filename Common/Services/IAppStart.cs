@@ -2,5 +2,5 @@
 
 public interface IAppStart
 {
-    void Run();
+    Task Run();
 }

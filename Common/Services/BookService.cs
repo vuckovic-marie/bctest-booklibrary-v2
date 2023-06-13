@@ -3,28 +3,22 @@ namespace Common.Services;
 public class BookService : IBookService
 {
     private readonly string _bookUrl = "https://api.actionnetwork.com/web/v1/books";
+    //private readonly HttpClient _httpClient = new HttpClient();
 
     public async Task<List<Book>> GetAllBooks()
     {
         List<Book> allBooks = new List<Book>();
-        using var client = new HttpClient();
         try
         {
-            var response = await client.GetAsync(String.Format(_bookUrl));
-            var a = response;
-            if (response.IsSuccessStatusCode)
+            var response = await GetBooksApi(_bookUrl);
+            try
             {
-                var books = await response.Content.ReadAsStringAsync();
-                try
-                {
-                    var jsonBooks = System.Text.Json.JsonSerializer.Deserialize<BookObj>(books);
-                    allBooks.AddRange(jsonBooks.books);
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine(ex.Message);
-                }
-           
+                var jsonBooks = System.Text.Json.JsonSerializer.Deserialize<BookObj>(response);
+                allBooks.AddRange(jsonBooks.books);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
             }
         }
         catch (Exception ex)
@@ -32,7 +26,14 @@ public class BookService : IBookService
             Console.WriteLine(ex.Message);
         }
         
+        await Task.CompletedTask;
         return allBooks;
+    }
+
+    private async Task<string> GetBooksApi(string url)
+    {
+        var response = await new HttpClient().GetAsync(url);
+        return await response.Content.ReadAsStringAsync();
     }
 
     public async Task<List<List<Book>>> FilterBooks(List<Book> bookList)
@@ -47,7 +48,8 @@ public class BookService : IBookService
                 groupedBooks.Add(list.ToList());
             }
         }
-
+        
+        await Task.CompletedTask;
         return groupedBooks;
     }
 

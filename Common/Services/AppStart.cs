@@ -8,9 +8,10 @@ public class AppStart: IAppStart
         _bookservice = bookService;
     }
 
-    public async void Run()
+    public async Task Run()
     {
         try{
+            
             List<Book> initBookList = await _bookservice.GetAllBooks();
             List<List<Book>> filteredBookList = await _bookservice.FilterBooks(initBookList);
             if (filteredBookList.Any())
@@ -32,5 +33,7 @@ public class AppStart: IAppStart
         {
             Console.WriteLine(ex.Message);
         }
+        
+        await Task.CompletedTask;
     }
 }

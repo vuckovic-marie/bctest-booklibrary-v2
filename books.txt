@@ -1,0 +1,177 @@
+888Sport
+888 Canada NL,PE,NS,NB,QC,MB,SK,AB,BC,YT,NT,NU,ON
+Barstool
+Barstool MI MI
+Barstool TN TN
+Barstool VA VA
+Barstool AZ AZ
+Barstool MD MD
+Barstool OH OH
+Barstool PA PA
+Barstool KS KS
+Barstool LA LA
+Barstool IN IN
+Barstool MA MA
+Barstool IL IL
+Barstool WV WV
+Barstool IA IA
+bet365
+bet365 IA IA
+bet365 ON ON
+bet365 OH OH
+bet365 Canada NL,PE,NS,NB,QC,MB,SK,AB,BC,YT,NT,NU
+bet365 VA VA
+Bet99
+Bet99 Canada NL,PE,NS,NB,QC,MB,SK,AB,BC,YT,NT,NU
+Bet99 ON ON
+Betfred
+Betfred IA IA
+Betfred AZ AZ
+Betfred Canada NL,PE,NS,NB,QC,MB,SK,AB,BC,YT,NT,NU
+BetMGM
+BetMGM TN TN
+BetMGM IN IN
+BetMGM PA PA
+BetMGM KS KS
+BetMGM IA IA
+BetMGM VA VA
+BetMGM DC DC
+BetMGM OH OH
+BetMGM IL IL
+BetMGM WV WV
+BetMGM AZ AZ
+BetMGM LA LA
+BetMGM NV NV
+BetMGM WY WY
+BetMGM MD MD
+BetMGM NY NY
+BetMGM ON ON
+BetMGM MI MI
+BetMGM MA MA
+BetMGM PR PR
+BetRivers
+BetRivers VA VA
+BetRivers MI MI
+BetRivers AZ AZ
+BetRivers IL IL
+BetRivers IA IA
+BetRivers NY NY
+BetRivers LA LA
+BetRivers ON ON
+BetRivers IN IN
+BetRivers WV WV
+BetRivers PA PA
+BetRivers MD MD
+BetRivers OH OH
+Caesars
+Caesars IA IA
+Caesars TN TN
+Caesars LA LA
+Caesars NV NV
+Caesars IL IL
+Caesars MI MI
+Caesars VA VA
+Caesars AZ AZ
+Caesars NY NY
+Caesars ON ON
+Caesars KS KS
+Caesars PA PA
+Caesars WY WY
+Caesars OH OH
+Caesars WV WV
+Caesars MD MD
+Caesars IN IN
+Caesars MA MA
+Casumo
+Casumo NL,PE,NS,NB,QC,ON,MB,SK,AB,BC,YT,NT,NU
+Consensus
+Consensus 
+DK
+DraftKings AS AS
+DraftKings
+DK PA PA
+DK LA LA
+DK IA IA
+DK VA VA
+DK ON ON
+DK OH OH
+DK IL IL
+DK CT CT
+DK MI MI
+DK NY NY
+DK OR OR
+DK MA MA
+DK WV WV
+DK KS KS
+DK AZ AZ
+DK NH NH
+DK WY WY
+DK IN IN
+DK MD MD
+DK TN TN
+FanDuel
+FanDuel WV WV
+FanDuel MI MI
+FanDuel VA VA
+FanDuel TN TN
+FanDuel KS KS
+FanDuel WY WY
+FanDuel PA PA
+FanDuel IN IN
+FanDuel AZ AZ
+FanDuel CT CT
+FanDuel LA LA
+FanDuel NY NY
+FanDuel OR OR
+FanDuel MA MA
+FanDuel IL IL
+FanDuel ON ON
+FanDuel OH OH
+FanDuel MD MD
+FanDuel IA IA
+Fox Bet
+Fox Bet MI MI
+Fox Bet PA PA
+LeoVegas
+LeoVegas Ontario ON
+Parx
+Play Gun Lake MI
+Parx PA
+PointsBet
+PointsBet MD MD
+PointsBet VA VA
+PointsBet NY NY
+PointsBet IA IA
+PointsBet IN IN
+PointsBet MI MI
+PointsBet IL IL
+PointsBet WV WV
+PointsBet PA PA
+PointsBet LA LA
+PointsBet KS KS
+PointsBet OH OH
+Sports Interaction
+Sports Interaction NL,PE,NS,NB,QC,ON,MB,SK,AB,BC,YT,NT,NU
+SugarHouse
+SugarHouse CT
+theScore
+theScore Bet ON ON
+TonyBet
+TonyBet NL,PE,NS,NB,QC,MB,SK,AB,BC,YT,NT,NU,ON
+Unibet
+UnibetPA PA
+Unibet IN IN
+Unibet VA VA
+Unibet Canada NL,PE,NS,NB,QC,MB,SK,AB,BC,YT,NT,NU
+Unibet AZ AZ
+Unibet ON ON
+WynnBet
+WynnBET MI MI
+WynnBET VA VA
+WynnBET NY NY
+WynnBET TN TN
+WynnBET AZ AZ
+WynnBET IN IN
+WynnBET LA LA
+WynnBET MA MA
+
